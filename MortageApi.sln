@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortageApi", "MortageApi\MortageApi.csproj", "{1FBC3629-533A-4A85-A442-E4C298BE73DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBC3629-533A-4A85-A442-E4C298BE73DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBC3629-533A-4A85-A442-E4C298BE73DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBC3629-533A-4A85-A442-E4C298BE73DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBC3629-533A-4A85-A442-E4C298BE73DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE416F41-FC65-4112-B1E4-2C3FD49B4130}
+	EndGlobalSection
+EndGlobal
